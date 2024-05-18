@@ -1,0 +1,65 @@
+﻿[
+  {
+    "wording": "Application name",
+    "en-US": "Application name",
+    "th-TH": "ชื่อแอพพริเคชั่น",
+    "ch-CH": "應用程式名稱",
+    "lo-LA": "ຊື່ຄໍາຮ້ອງສະຫມັກ"
+  },
+  {
+    "wording": "ASP.NET",
+    "en-US": "ASP.NET",
+    "th-TH": "เอเอสพี ดอทเน็ต",
+    "ch-CH": "活動伺服器頁面",
+    "lo-LA": "ໜ້າເຊີບເວີທີ່ໃຊ້ງານ"
+  },
+  {
+    "wording": "easy",
+    "en-US": "easy",
+    "th-TH": "เรื่องง่าย",
+    "ch-CH": "簡單的",
+    "lo-LA": "ງ່າຍ"
+  },
+  {
+    "wording": "Getting started",
+    "en-US": "Getting started",
+    "th-TH": "เริ่มต้นใช้งาน",
+    "ch-CH": "入門",
+    "lo-LA": "ການເລີ່ມຕົ້ນ"
+  },
+  {
+    "wording": "Get more libraries",
+    "en-US": "Get more libraries",
+    "th-TH": "แหล่งข้อมูลเพิ่มเติม",
+    "ch-CH": "取得更多函式庫",
+    "lo-LA": "ຊັບພະຍາກອນເພີ່ມເຕີມ"
+  },
+  {
+    "wording": "Web Hosting",
+    "en-US": "Web Hosting",
+    "th-TH": "การให้บริการเว็บไซต์",
+    "ch-CH": "虛擬主機",
+    "lo-LA": "ການບໍລິການເວັບໄຊທ໌"
+  },
+  {
+    "wording": "m-Home",
+    "en-US": "Home",
+    "th-TH": "หน้าหลัก",
+    "ch-CH": "首頁",
+    "lo-LA": "ຫນ້າທໍາອິດ"
+  },
+  {
+    "wording": "m-About",
+    "en-US": "About",
+    "th-TH": "เกี่ยวกับ",
+    "ch-CH": "關於",
+    "lo-LA": "ກ່ຽວກັບ"
+  },
+  {
+    "wording": "m-Contact",
+    "en-US": "Contact",
+    "th-TH": "ติดต่อ",
+    "ch-CH": "接觸",
+    "lo-LA": "ຕິດຕໍ່"
+  }
+]
